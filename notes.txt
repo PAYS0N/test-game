@@ -1,0 +1,5 @@
+rock -> moss -> adventurers
+
+rock -> always present, gives almost nothing
+moss -> gives a lot on death, can be regrown over time
+adventurers -> starts with rabbits, increases in threat, gives lots on death, can be manipulated as defenses
